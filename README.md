@@ -1,6 +1,6 @@
 # 1. Project Information
-- **Project Name**: Tetris (OOP Project)
-- **Contributors**: [ใส่ชื่อสมาชิก]
+- **Project Name**: Color Blocx
+- **Contributors**: [จารุวัฒน์ บุญสาร 68114540124]
 
 # 2. Project Description
 โปรเจกต์เกม Tetris คลาสสิกที่เขียนและพัฒนาด้วยภาษา Python โดยมีการใช้ไลบรารี Pygame เป็นแกนหลักในการเรนเดอร์กราฟิกตัวเกมและจัดการการรับค่าจากคีย์บอร์ด
